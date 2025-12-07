@@ -1,6 +1,8 @@
 # M1_modeling
 A software package for modeling and analyzing TMS and tDCS -induced E-Fields in human brain models
-/nDeveloped by Prem Ganesh, Brain Stimulation Mechanisms Lab at McLean Hospital/Harvard Medical School, 2025.
+
+
+Developed by Prem Ganesh, Brain Stimulation Mechanisms Lab at McLean Hospital/Harvard Medical School, 2025.
 
 # Overview
 
